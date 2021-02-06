@@ -16,9 +16,22 @@ struct vect4;
 	Library vectors
 
 	Data  : 03/11/2020
-	Author: Ozéias Souza.
+	Author: Ozï¿½ias Souza.
 	License: MIT
 	version: 0.2
+
+	//======== Prefix Types ==========//
+
+		s -> Scalar
+		v -> Vector
+		mult -> Multiplication
+		sub -> Subtract
+		sum -> Sum :)
+		a -> Angle
+		rot -> Rotation
+
+	//================================//
+
 
 	-- add override operators in vect2
 		+ with scalar
@@ -217,11 +230,11 @@ __      __       _                   ____  _____
 	 \/ \___|\___|\__\___/|_|  |___/ |____/|_____/
 ====================================================================
 
-	Abaixo estão as funções de operações com vetores
-	no espaço r3.
+	Abaixo estï¿½o as funï¿½ï¿½es de operaï¿½ï¿½es com vetores
+	no espaï¿½o r3.
 
 	A estrutura basica de um vetor de 3 componentes
-	é a seguinte:
+	ï¿½ a seguinte:
 
 	Vect3 u<int>{ 0, 0, 10 };
 
